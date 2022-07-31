@@ -29,7 +29,7 @@ h1 {
   font-size: 12.25em;
   line-height: 1em;
   letter-spacing: .03em;
-  margin-bottom: 2px;
+  margin-bottom: 20px;
 }
 
 h2 {
@@ -62,7 +62,7 @@ p {
 }
 
 span {
-  display: inline-block;
+  display: inline-flex;
   font-size: 1em;
   line-height: 1em;
   letter-spacing: .35em;
@@ -104,7 +104,7 @@ img {
 }
 
 #title-box {
-  width: 252px;
+  width: 300px;
   height: 165px;
   background: rgba(247,211,27,1);
   margin-left: 163px;
